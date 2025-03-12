@@ -9,8 +9,8 @@ import img3 from "../../assets/image 7.png";
 
 const FirstPage = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
-
-  const items = [
+ 
+  const items = [ 
     {
       src: img1,
       title: "Agricultural Safety",
