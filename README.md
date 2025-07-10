@@ -1,5 +1,5 @@
-Krisaanjh - Farmer-Company Mediator Platform
-A blockchain-based platform connecting farmers directly with large companies using smart contracts for transparent and fair transactions.
+🌾 Krisaanjh – Farmer-Company Mediator Platform
+A blockchain-based platform that connects farmers directly with large companies using smart contracts to ensure transparent, secure, and fair transactions.
 
 🚀 Technologies Used
 🌐 Frontend
