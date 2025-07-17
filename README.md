@@ -9,7 +9,7 @@ Material-UI (MUI) (UI components & styling)
 
 Redux (State management)
 
-Axios (API communication)
+Axios (API communication) 
 
 🔗 Backend & Blockchain
 Node.js & Express.js (Server & API)
